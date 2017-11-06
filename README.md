@@ -10,7 +10,7 @@ ASE-homework01
 * 页面间的切换
 * 实现Ruby on Rails中的数据库的增删查改功能，并可在页面中显示数据
 
-### 访问方法
+### 访问方式
 
 * 访问网址 https://myfirstpage-magezhang.c9users.io/greetings/hello
 * 数据库表页面 https://myfirstpage-magezhang.c9users.io/courses
